@@ -13,7 +13,7 @@
 .cabecalho {
     grid-area: cabecalho;
 }
- 
+
 .conteudo {
     grid-area: conteudo;
 }
