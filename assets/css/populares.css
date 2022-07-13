@@ -11,13 +11,10 @@ padding: 3rem 0;
 
 .populares__card{
     display: grid;
-    width: calc(20% - 1rem);
-    margin-right: 1rem;
     grid-template-areas: 
         "card-imagem"
         "card-corpo";
     grid-template-columns: 100%;
-    grid-template-rows: 160px auto;
     background-color: #fdfdfd;
 }
 
